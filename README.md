@@ -25,9 +25,24 @@ I developed a Power BI solution with an Early Warning System and automated remin
 ## 📊 Dashboard
 
 ### 🧑‍⚕️✅Executive Performance
+Provides executives with an overview of compliance performance, overdue assessments, and upcoming medical reviews.
 
 ### ⚠️Early Warning Dashboard
+Identifies employees whose medical assessments are due within the next 30 days, enabling proactive intervention before they become overdue.
+Repeat for the Compliance, Overdue, and Department dashboards.
 
 ### 🚩Overdue Warning Dashboard
+Identifies employees whose medical assessments are over due.
+Repeat for the Compliance, Overdue, and Department dashboards.
+
+## ⚖️Business Impact
+|Metric	|Before	|After|
+|:------|:------|:-----|
+|Compliance|	14%|	61%|
+|Reporting|	Manual|	Automated|
+|Monitoring|	Reactive|	Proactive|
+Reminders	None	Weekly automated
+
+A visual "before vs. after" comparison is especially effective.
 
 
