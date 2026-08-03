@@ -13,4 +13,13 @@ I developed a Power BI solution with an Early Warning System and automated remin
 |Reactive process	|Low compliance|
 |Manual reporting	|Delayed decision-making|
 
+## Solution
+|Solution       | Description|
+|:---------------|:---------------|
+|Power BI Dashboard|	Centralised compliance reporting|
+|Early Warning System|	Flags employees 30 days before due date|
+|Power Automate|	Weekly reminder emails|
+|DAX	|Calculates due dates and overdue days|
+|Powe Query	|Cleans and transforms data|
+
 
