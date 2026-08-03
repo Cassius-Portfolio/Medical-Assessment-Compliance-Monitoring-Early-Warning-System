@@ -1,8 +1,9 @@
 # 🩺Medical Assessment Compliance Monitoring-Early Warning-System
 Improving employee medical compliance through business intelligence, process improvement, and automation
-## Project Summary
-Employee medical assessments were manually tracked using spreadsheets, resulting in missed due dates, low compliance, and limited visibility.
-I developed a Power BI solution with an Early Warning System and automated reminders to help Wellness proactively manage employee medical assessments.
+## 📝Project Overview
+This project showcases the development of a Medical Assessment Compliance Monitoring & Early Warning System to improve employee medical assessment compliance through data analytics and automation using Power BI, Power Query, DAX, and Power Automate. I transformed a manual spreadsheet-based process into an interactive reporting solution that proactively identifies employees approaching their medical assessment due dates and automates weekly reminder notifications.
+
+The solution incorporates business rules to accurately calculate medical assessment due dates based on employee-specific assessment frequencies (annual or biennial) while accounting for leap years and non-leap years to ensure date accuracy. A proactive early warning system flags employees up to 30 days before their assessments are due enabling timely intervention and reducing the risk of non-compliance. The implementation improved medical assessment compliance from 14% to 61%, reduced manual administrative effort, and provided management with real-time visibility to support informed decision-making..
 
 ## ❗Business Problem
 |Challenge       | Business Impact|
@@ -41,7 +42,7 @@ Repeat for the Compliance, Overdue, and Department dashboards.
 |Compliance|	14%|	61%|
 |Reporting|	Manual|	Automated|
 |Monitoring|	Reactive|	Proactive|
-Reminders	None	Weekly automated
+|Reminders|	None	|Weekly automated|
 
 A visual "before vs. after" comparison is especially effective.
 
