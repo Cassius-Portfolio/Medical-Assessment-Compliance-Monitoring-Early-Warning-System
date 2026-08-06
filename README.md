@@ -26,7 +26,9 @@ The solution incorporates business rules to accurately calculate medical assessm
 ## 📊 Dashboard
 
 ### 🧑‍⚕️✅Executive Performance
-Provides executives with an overview of compliance performance, overdue assessments, and upcoming medical reviews.
+Provides executives with an overview of compliance performance: 
+![]
+Medical performance per Service Delivery Centre:
 
 ### ⚠️Early Warning Dashboard
 Identifies employees whose medical assessments are due within the next 30 days, enabling proactive intervention before they become overdue.
