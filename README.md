@@ -34,7 +34,7 @@ Medical performance per Service Delivery Centre:
 
 ### ⚠️Early Warning Dashboard
 Identifies employees whose medical assessments are due within the next 30 days, enabling proactive intervention before they become overdue.
-Repeat for the Compliance, Overdue, and Department dashboards.
+
 
 ### 🚩Overdue Warning Dashboard
 Identifies employees whose medical assessments are over due.
