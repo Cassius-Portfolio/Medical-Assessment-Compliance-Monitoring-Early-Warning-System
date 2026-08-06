@@ -43,7 +43,7 @@ Repeat for the Compliance, Overdue, and Department dashboards.
 ## ⚖️Business Impact
 |Metric	|Before	|After|
 |:------|:------|:-----|
-|Compliance|	14%|	61%|
+|Compliance|	14%|	62%|
 |Reporting|	Manual|	Automated|
 |Monitoring|	Reactive|	Proactive|
 |Reminders|	None	|Weekly automated|
