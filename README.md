@@ -27,7 +27,8 @@ The solution incorporates business rules to accurately calculate medical assessm
 
 ### 🧑‍⚕️✅Executive Performance
 Provides executives with an overview of compliance performance: 
-![]
+![](https://github.com/Cassius-Portfolio/Medical-Assessment-Compliance-Monitoring-Early-Warning-System/blob/main/Medical%20Overview..png)
+
 Medical performance per Service Delivery Centre:
 
 ### ⚠️Early Warning Dashboard
