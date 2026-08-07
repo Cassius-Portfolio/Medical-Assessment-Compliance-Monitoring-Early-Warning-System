@@ -33,7 +33,7 @@ Medical performance per Service Delivery Centre:
 ![](https://github.com/Cassius-Portfolio/Medical-Assessment-Compliance-Monitoring-Early-Warning-System/blob/main/Per%20SDC.png)
 ### ⚠️Early Warning Dashboard
 Identifies employees whose medical assessments are due within the next 30 days, enabling proactive intervention before they become overdue.
-![](https://github.com/Cassius-Portfolio/Medical-Assessment-Compliance-Monitoring-Early-Warning-System/blob/main/Days%20Until%20Due%20Date..png)
+![](https://github.com/Cassius-Portfolio/Medical-Assessment-Compliance-Monitoring-Early-Warning-System/blob/main/Days%20Until%20Due%20Date.png)
 
 ### 🚩Overdue Warning Dashboard
 Identifies employees whose medical assessments are over due.
